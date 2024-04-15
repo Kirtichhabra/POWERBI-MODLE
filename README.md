@@ -3,12 +3,21 @@
  Leveraging Data to Drive Educational Impact | Transforming Insights into Action | Fostering Collaborative Learning Environments
 
 
+
+
+
 **💼 Key Skills:
 **
 Data Analysis & Visualization: Proficient in analyzing weekly quiz data to extract actionable insights and trends. Skilled in creating dynamic visualizations using tools like Power BI.
 Strategic Planning: Experienced in developing and implementing strategic initiatives to drive educational impact and achieve organizational goals.
 Collaborative Leadership: Adept at fostering cross-functional collaboration and teamwork to drive innovation and continuous improvement.
 Edtech Expertise: Deep understanding of the edtech landscape, with a focus on developing engaging and impactful learning experiences.
+
+
+
+
+
+
 **📈 Key Achievements:
 **
 Led comprehensive analysis of weekly quiz data, resulting in actionable insights that drove improvements in user engagement and learning outcomes.
